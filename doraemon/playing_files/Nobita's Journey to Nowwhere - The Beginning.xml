@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/3.0"> 
+    <id>com.njtntb</id> 
+    <versionNumber>1.0.0</versionNumber> 
+    <filename>Nobita's Journey to Nowhere - The Beginning</filename> 
+    <name>Nobita's Journey to Nowhere - The Beginning</name> 
+     <description> 
+        <text xml:lang="en">Nobita along with Doraemon and his friends went out for a tour to Nowwhere where Doraemon got kidnapped by Nokachima. 
+Now, its your duty to help Nobita and his friends to save Doraemon from Nokachima and keep their friendship alive.</text> 
+        
+    </description> 
+    <copyright>Copyright (c) 2018 GG Co.</copyright> 
+    <initialWindow> 
+        <title>Nobita's Journey to Nowhere - The Beginning</title> 
+        <content> 
+            /Users/gg/Desktop/Doraemon/"Journey to Nowhere - The Beginning.swf"
+        </content> 
+    </initialWindow>  
+    
+</application>
