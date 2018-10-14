@@ -5,6 +5,6 @@
 The game is based on the journey of Doraemon an his friends to "Nowhere" where Doraemon is captured by four villians. 
 His friends try to save him back by clearing different levels.
 
-Game Difficulty : Easy
-Requirements : Internet and a Browser
-Link : https://phosphorus.github.io/app.html?id=225201901&turbo=false&full-screen=true
+Game Difficulty : Easy <br/>
+Requirements : Internet and a Browser <br/>
+Link :  https://phosphorus.github.io/app.html?id=225201901&turbo=false&full-screen=true
